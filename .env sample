@@ -1,2 +1,12 @@
 PORT =6000
+
+CORS_ORIGIN=*
+
+
+
+
+
+
+
+
 MONGO_URL = mongodb+srv://kothasaiteja76_db_user:password@cluster0.f7kuquz.mongodb.net
